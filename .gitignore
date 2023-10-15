@@ -6,3 +6,6 @@ cmake-build-debug/
 # Ignore C compilation results
 *.o
 *.out
+
+# Ignore test.c
+/test.c
