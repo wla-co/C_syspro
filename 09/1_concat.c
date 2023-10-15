@@ -52,4 +52,5 @@ int main() {
     free(arr1);
     free(arr2);
     free(arr3);
+
 }
