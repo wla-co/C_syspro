@@ -1,0 +1,8 @@
+# Folders
+.idea/
+cmake-build-debug/
+/CMakeLists.txt
+
+# Ignore C compilation results
+*.o
+*.out
