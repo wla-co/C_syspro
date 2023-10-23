@@ -7,6 +7,8 @@ cmake-build-debug/
 # Ignore C compilation results
 *.o
 *.out
+*.exe
+output/
 
 # Ignore test.c
 /test.c
